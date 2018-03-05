@@ -11,4 +11,13 @@ lets you extract key-value pairs from a dynamic type object pretty easily.
 Example code:
 <script src="https://gist.github.com/vector623/327f84ec410a6b937fbbf23c08a9292c.js"></script>
 
+In this gist, I am reading a Google AdWords report response object, returned from `reportRequest`, into a 
+[`CsvReader`][2] object.  I am converting each record to a `dynamic` object, but quickly converting that object into
+a `RouteValueDictionary` object in the next `Select()` statement.  
+
+From there I am formatting and reading the individual
+columns, creating a new class of `KeywordPerformanceStat`, which I will then insert into the database using [`Dapper`][3]
+
 [1]: https://msdn.microsoft.com/en-us/library/system.web.routing.routevaluedictionary(v=vs.110).aspx
+[2]: http://joshclose.github.io/CsvHelper/
+[3]: https://github.com/StackExchange/Dapper
