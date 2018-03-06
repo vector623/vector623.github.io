@@ -14,9 +14,9 @@ against web APIs quite well:
 In this example, I am using `Enumerable.Range()` to create a set of numbers, 0 through 4.  I then use Linq's `Select()` 
 method to iterate through those integers, storing those integers in the variable `pageAttempt`, for each iteration.
 
-I've setup a try/catch block in order to contend with rate limit requests. If you are working with a service API, it's 
+I've setup a try/catch block in order to contend with rate limits. If you are working with a service API, it's 
 inevitable that API calls will throw rate limit exceptions. Sometimes the exception will contain a timeout value, but in 
-my experience, it usually won't.
+my experience, it usually doesn't.
 
 A good practice then, when interacting with rate-limited APIs, is to to exponentially increase your wait times between 
 each API request.  That's how the `pageAttempt` variable is used.  On the first iteration, `Thread.Sleep()` will suspend 
