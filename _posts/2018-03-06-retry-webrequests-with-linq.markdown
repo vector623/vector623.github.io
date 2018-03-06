@@ -24,7 +24,7 @@ execution for 0 milliseconds, then 2.5 seconds, then 10 seconds and so on.
 
 Finally, linq's `First()` method will halt iteration when a valid result has been fetched.  In this context, `First()` 
 operates similarly to a break statement within a while loop.  Additionally, if all iterations are run and only null
-results are returned from Select(), the `First()` method will throw an exception, which should be caught in the 
+results are returned from `Select()`, the `First()` method will throw an exception, which should be caught in the 
 surrounding context and treated as if the API request has failed entirely.
 
 
