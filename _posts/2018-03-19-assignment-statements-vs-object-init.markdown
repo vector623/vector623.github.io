@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Assignment Statements vs Object Initializers"
+title:  "Assignment statements vs object initializers"
 date:   2018-03-19 10:28:00 -0500
 categories: jekyll update csharp
 ---
