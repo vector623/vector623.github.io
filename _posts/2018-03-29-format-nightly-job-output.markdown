@@ -52,5 +52,5 @@ The output for a json response like this will be something like the following:
 ]
 ```
 
-So when I come to work in the morning and notice a job has failed, I can simply visit the url that ran the failed job
-to see which job caused the problem.
+So when I come to work in the morning and notice a job has failed, I can simply visit the url that ran the nightly jobs
+to see which specific job caused the problem, along w/a useful error message.
