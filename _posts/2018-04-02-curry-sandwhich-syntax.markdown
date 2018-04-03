@@ -6,12 +6,12 @@ categories: csharp
 ---
 
 Currying is a prominent feature of functional programming and I've come to strongly prefer stacking curry-methods in my
-development.  Each curried method gets a single line and I find this to improve code readibility.  Here is an example of
-curry sandwich syntax.  
-
-Below, I am grouping a large collection, `reportLines`, into batches of 2500.  `reportLineSlices` 
-will be assigned to a list of lists, each containing 2500 report lines.  The last grouping will
-contain less than 2500 elements, unless the number of elements in the `reportLines` collection is a multiple of 2500:
+development.  Each curried method gets a single line and I find this to improve code readability.  The methods are 
+curried and stacked on top of each other, so I call it Curry Sandwich Syntax.
+  
+Here is an example of curry sandwich syntax; I am grouping a large collection, `reportLines`, into batches of 2500.  `reportLineSlices` 
+will be assigned to a list of lists, each containing 2500 report lines.  The last grouping will contain less than 2500 
+elements, unless the number of elements in the `reportLines` collection is a multiple of 2500:
 
 ```csharp
 var reportLinesSlices = reportLines
