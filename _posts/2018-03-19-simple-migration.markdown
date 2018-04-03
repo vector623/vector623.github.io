@@ -2,7 +2,7 @@
 layout: post
 title:  "How to migrate hosts the easy way"
 date:   2018-03-19 15:52:00 -0500
-categories: jekyll update humor
+categories: humor devops
 ---
 
 Here's how you can migrate your entire server configuration from an old host to a new one: 

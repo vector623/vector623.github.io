@@ -2,7 +2,7 @@
 layout: post
 title:  "Import with CsvHelper"
 date:   2018-03-14 12:14:00 -0500
-categories: jekyll update csharp
+categories: csharp
 ---
 
 [CsvHelper][1] is my preferred dependency for handling csv files, in C#.

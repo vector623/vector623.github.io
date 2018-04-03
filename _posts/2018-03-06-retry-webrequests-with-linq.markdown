@@ -2,7 +2,7 @@
 layout: post
 title:  "Retry webrequests with linq"
 date:   2018-03-06 08:29:00 -0500
-categories: jekyll update
+categories: csharp
 ---
 I prefer functional programming whenever possible.  Inevitably, there are exceptions that have to be made to the 
 functional paradigm and I thought that calling web APIs was one of those exceptions.

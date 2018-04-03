@@ -2,7 +2,7 @@
 layout: post
 title:  "Quickly deanonymize dynamic typing"
 date:   2018-03-05 16:52:00 -0500
-categories: jekyll update
+categories: csharp
 ---
 Dynamic types are useful when extracting values from data sources before structuring them, but I generally want to 
 return to a static-typed context as soon as possible.  .NET provides a built-in type, [RouteValueDictionary][1], which

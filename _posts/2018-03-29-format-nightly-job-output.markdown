@@ -2,7 +2,7 @@
 layout: post
 title:  "Format asp.net controller output for nightly jobs"
 date:   2018-03-29 11:30:00 -0500
-categories: jekyll update
+categories: csharp
 ---
 
 I prefer to call jobs from mvc asp.net controller actions and I also prefer to call those actions from another 

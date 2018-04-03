@@ -2,7 +2,7 @@
 layout: post
 title:  "Reduce until"
 date:   2018-03-07 15:00:00 -0500
-categories: jekyll update
+categories: csharp
 ---
 In working with web APIs that return pages of results, I've found that they generally have these things in common: 
 
