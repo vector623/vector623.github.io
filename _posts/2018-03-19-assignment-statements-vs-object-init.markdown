@@ -14,3 +14,6 @@ The newer syntax and much improved syntax is the object initializer. In a single
 at the same time the object is instantiated.  The assignments are also tabbed, which allow for easier reading.  Here is
 an example:
 <script src="https://gist.github.com/vector623/7245bb6575b7f977f580bfc8d0eeee26.js"></script>
+
+So when you need to search syntax on how to initialize something in one call, you can attach "object initializer" to 
+your search.  [Example: "c# new dictionary object initializer"](https://www.google.com/search?q=c%23+new+dictionary+object+initializer&safe=active&ssui=on)
