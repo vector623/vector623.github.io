@@ -50,5 +50,3 @@ Node.js - A platform used by project managers in an attempt to reduce programmer
 ## S ##
 
 Serverless - The discarding of a generation's worth of technology intended to standardize web applications in favor of locking yourself into a vendor with an unproven, proprietary service from Amazon (Lambda), Microsoft (Azure Functions) or Google (Serverless)
-
-Social Media -
