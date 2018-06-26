@@ -5,6 +5,10 @@ date:   2018-06-25 15:15:00 -0500
 categories: csharp
 ---
 
+## A ## 
+
+Amazon Web Services - A cloud computing service, which labels relatively simple products with obfuscating names, as an enticement for developers to pad their resumes.  A sane developer would never affix "file storage" to his expertise, but once the file storage has been renamed to "S3", suddenly the boast is worth publishing in a professional context.
+
 ## B ##
 
 Big data - When Excel crashes.
