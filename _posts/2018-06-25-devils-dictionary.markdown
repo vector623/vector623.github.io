@@ -7,13 +7,17 @@ categories: csharp
 
 ## A ## 
 
-Amazon Web Services - A cloud computing service, which labels relatively simple products with obfuscating names, as an enticement for developers to pad their resumes.  A sane developer would never affix "file storage" to his expertise, but once the file storage has been renamed to "S3", suddenly the boast is worth publishing in a professional context.
+Amazon Web Services - A cloud computing service, which labels relatively simple products with complicated-sounding
+names, as an enticement for developers to pad their resumes.  A sane developer would never affix "file storage" to his
+areas of expertise, but once the file storage has been renamed to "S3", suddenly the boast is worth publishing in a
+professional context.
 
 ## B ##
 
 Big data - When Excel crashes.
 
-Bizdev - Job title for a position in web application sales.  Generally preferred by someone who is too proud to be called a salesman and yet is not shrewd enough to get paid like one.
+Bizdev - Job title for a position in web application sales.  Generally preferred by someone who is too proud to be
+called a salesman and yet is not shrewd enough to get paid like one.
 
 ## C ##
 
@@ -23,17 +27,24 @@ Cloud, as in computing - Another name for someone else's computer.
 
 Data science - Statistics and linear algebra concealed behind a veil of marketing and ignorance.
 
-Devops - A portmanteau of Development and Operations.  In other words, the practice of writing software and publishing it for use.
+Devops - A portmanteau of Development and Operations.  In other words, the practice of writing software and publishing
+it for use.  Devops has recently gained momentum, in large part because it eliminates all accountability on part of the
+developer by removing all non-developers from the software publishing process.
 
-Docker - An abstraction for Linux system administration and networking.  Allows entry-level developers to apply for six-figure salaries by publishing a Dockerfile to Github.
+Docker - An abstraction for Linux system administration and networking.  Allows entry-level developers to apply for
+six-figure salaries by publishing a Dockerfile to Github.
 
 ## E ##
 
-Early Access - A version of Kickstarter for Steam, designed to redirect profits for non-refundable video game preorders from the former to the latter.
+Early Access - A version of Kickstarter for Steam, designed to redirect profits for non-refundable video game preorders
+from the former to the latter.
 
 ## G ##
 
-GitHub - synonymous with Git, for most developers.
+Git - A tool that enables a developer to obscure software defects by publishing them in such large volumes as to
+quickly overwhelm the sensory faculties of any critics.  See [*Predator Confusion Effect*.][0]
+
+GitHub - Synonymous with Git, for most developers.
 
 ## H ##
 
@@ -45,12 +56,22 @@ Javascript - see *technical debt*
 
 ## M ##
 
-Machine learning - The brute forcing of relatively simple insights with GPUs; an industry-wide attempt to compensate for a loss of mathematic understanding with PC gaming hardware.
+Machine Learning - The brute forcing of relatively data simple insights using graphics cards; an industry-wide attempt 
+to compensate for a loss of mathematic understanding with PC gaming hardware.
+
+Meddling (as in *Russian Meddling*) - A rallying cry uniting the public against Big Tech.
 
 ## N ##
 
-Node.js - A platform used by project managers in an attempt to reduce programmer salaries by leveraging a workforce specially trained in a language designed to defer development costs from today to tomorrow.
+Net Neutrality - A rallying cry uniting the public for Big Tech.
+
+Node.js - A platform used by project managers in an attempt to reduce programmer salaries by leveraging a workforce
+specially trained in a language (Javascript) designed to defer development costs from today to tomorrow.
 
 ## S ##
 
-Serverless - The discarding of a generation's worth of technology intended to standardize web applications in favor of locking yourself into a vendor with an unproven, proprietary service from Amazon (Lambda), Microsoft (Azure Functions) or Google (Serverless)
+Serverless - The discarding of a generation's worth of technology intended to standardize web applications in favor of
+locking yourself into a vendor with an unproven, proprietary service from Amazon (Lambda), Microsoft (Azure Functions)
+or Google (Serverless)
+
+[0]: https://link.springer.com/article/10.1007%2FBF00177338
