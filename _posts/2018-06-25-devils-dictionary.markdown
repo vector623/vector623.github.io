@@ -59,7 +59,7 @@ Javascript - see *technical debt*
 Machine Learning - The brute forcing of relatively data simple insights using graphics cards; an industry-wide attempt 
 to compensate for a loss of mathematic understanding with PC gaming hardware.
 
-Meddling (as in *Russian Meddling*) - A rallying cry uniting the public against Big Tech.
+Meddling (as in *Meddling in US Elections*) - A rallying cry uniting the public against Big Tech.
 
 ## N ##
 
