@@ -27,6 +27,8 @@ Cloud, as in computing - Another name for someone else's computer.
 
 ## D ##
 
+Data Lake - the cloud's version of My Documents.
+
 Data science - Statistics and linear algebra concealed behind a veil of marketing and ignorance.
 
 Devops - A portmanteau of Development and Operations.  In other words, the combined practice of writing software and
