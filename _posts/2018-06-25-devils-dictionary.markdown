@@ -2,10 +2,13 @@
 layout: post
 title:  "Devil's Dictionary for Tech"
 date:   2018-06-25 15:15:00 -0500
-categories: csharp
+categories: humor
 ---
 
 ## A ## 
+
+Agile - A popular software development methodology that solves the problem of misaligned expectations between the
+developer and the customer by pretending they don't exist.
 
 Amazon Web Services - A cloud computing service, which labels relatively simple products with complicated-sounding
 names, as an enticement for developers to pad their resumes.  A sane developer would never affix "file storage" to his
@@ -27,12 +30,12 @@ Cloud, as in computing - Another name for someone else's computer.
 
 Data science - Statistics and linear algebra concealed behind a veil of marketing and ignorance.
 
-Devops - A portmanteau of Development and Operations.  In other words, the practice of writing software and publishing
-it for use.  Devops has recently gained momentum, in large part because it eliminates all accountability on part of the
-developer by removing all non-developers from the software publishing process.
+Devops - A portmanteau of Development and Operations.  In other words, the combined practice of writing software and
+publishing it. Devops has recently gained momentum, in large part because it enables developers to evade accountability
+by removing all non-developers from the software publishing process.
 
 Docker - An abstraction for Linux system administration and networking.  Allows entry-level developers to apply for
-six-figure salaries by publishing a Dockerfile to Github.
+six-figure devops salaries by publishing a Dockerfile to Github.
 
 ## E ##
 
@@ -46,9 +49,12 @@ quickly overwhelm the sensory faculties of any critics.  See [*Predator Confusio
 
 GitHub - Synonymous with Git, for most developers.
 
+Google - A marketing platform which camoflauges its present capitalist intentions with occasional callouts to historical
+communists.
+
 ## H ##
 
-Hour of Code - An effort to encourage young children to write software, using the web page equivalent of a pop up book.
+Hour of Code - An effort to encourage small children to write software, using the [web page equivalent of a pop up book][1].
 
 ## J ##
 
@@ -66,7 +72,7 @@ Meddling (as in *Meddling in US Elections*) - A rallying cry uniting the public 
 Net Neutrality - A rallying cry uniting the public for Big Tech.
 
 Node.js - A platform used by project managers in an attempt to reduce programmer salaries by leveraging a workforce
-specially trained in a language (Javascript) designed to defer development costs from today to tomorrow.
+specially trained in a language designed to defer development costs from today to tomorrow.
 
 ## S ##
 
@@ -75,3 +81,4 @@ locking yourself into a vendor with an unproven, proprietary service from Amazon
 or Google (Serverless)
 
 [0]: https://link.springer.com/article/10.1007%2FBF00177338
+[1]: https://studio.code.org/s/frozen/stage/1/puzzle/1
