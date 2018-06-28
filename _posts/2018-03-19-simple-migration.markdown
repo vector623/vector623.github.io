@@ -9,5 +9,3 @@ Here's how you can migrate your entire server configuration from an old host to 
 <script src="https://gist.github.com/vector623/db256eb9201da265dd66e8af41f73cca.js"></script>
 
 No need to futz about with Ansible, Jenkins, Docker or any of that other crap.
-
-Just a joke.
