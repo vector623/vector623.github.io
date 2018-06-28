@@ -6,7 +6,6 @@ categories: humor
 ---
 
 ## A ## 
-
 Agile - A popular software development methodology that solves the problem of misaligned expectations between the
 developer and the customer by pretending they don't exist.
 
@@ -49,8 +48,8 @@ quickly overwhelm the sensory faculties of any critics.  See [*Predator Confusio
 
 GitHub - Synonymous with Git, for most developers.
 
-Google - A marketing platform which camoflauges its present capitalist intentions with occasional callouts to historical
-communists.
+Google - A marketing platform which uses occasional homages to historical Marxists to camoflauge its present capitalist
+ambitions.
 
 ## H ##
 
