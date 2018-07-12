@@ -116,8 +116,9 @@ both `SalesOrderId` and `LastModifiedDate`.  You can mix and match any fields in
 `IComparer` and `IEqualityComparer` that will evaluate only the fields you care about.
 
 I prefer to let Jetbrains' excellent C# IDE, [Rider][0], generate that code for me. But you might be coding in Visual
-Studio or even worse, Visual Studio Code, which don't provide automatic generators for these interfaces. If you need to
-fulfill these interfaces yourself, you can leverage .NET's existing `String` implementation of the required methods:
+Studio or even worse, Visual Studio Code, which don't provide automatic generators for these interfaces (though Visual
+Studio will generate `Equals` and `GetHashCode` for you). If you need to fulfill these interfaces yourself, you can 
+leverage .NET's existing `String` implementation of the required methods:
 
 ```csharp
 public class IdComparer : IComparer<SalesOrder>, IEqualityComparer<SalesOrder>
