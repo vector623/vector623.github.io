@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  ".NET Logging Part 1, Configuring Serilog"
-date:   2018-06-25 10:10:00 -0500
+date:   2018-06-26 10:10:00 -0500
 categories: csharp
 ---
 
