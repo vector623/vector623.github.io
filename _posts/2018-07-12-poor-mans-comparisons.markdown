@@ -50,8 +50,8 @@ public void SyncSalesOrders() {
 }
 ```
 
-Linq's `Except` and `Intersect` operators do all the heavy lifting for you after you define which orders are to be
-included and excluded.  That definition takes places through fulfilling the `IComparer` and `IEqualityComparer`
+Linq's `Except` and `Intersect` operators do all the heavy lifting for you after you define which member variables are 
+to be included and excluded. That definition takes places through fulfilling the `IComparer` and `IEqualityComparer`
 interfaces:
 
 ```csharp
@@ -111,8 +111,8 @@ public class StatusComparer : IComparer<SalesOrder>, IEqualityComparer<SalesOrde
 }
 ```
 
-In these interface implemntations, I am including only `SalesOrderId` when comparing identity.  For status, I include
-both `SalesOrderId` and `LastModifiedDate`.  You can mix and match any fields in order to produce an implementation of
+In these interface implementations, I am including only `SalesOrderId` to compare identity.  For status, I include both 
+`SalesOrderId` and `LastModifiedDate`. You can mix and match any fields in order to produce an implementation of 
 `IComparer` and `IEqualityComparer` that will evaluate only the fields you care about.
 
 I prefer to let Jetbrains' excellent C# IDE, [Rider][0], generate that code for me. But you might be coding in Visual
