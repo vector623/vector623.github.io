@@ -167,7 +167,8 @@ the nice thing about defaulting to the `String` implementations is that you don'
 into implementing these methods.  They obviously won't be as fast if you implement this way, but they will be safe and
 you don't have to do any real thinking beyond selecting the member variables you want to be compared.
 
-If you want to consolidate the latter example, you can feed a `ToString` delegate into the `Compare`, `Equals` and 
-`GetHashCode` methods.
+You can further consolidate the latter example, by feeding a `ToString` delegate into general versions of the the
+`Compare`, `Equals` and `GetHashCode` methods, or by deriving `StatusComparer` from `IdComparer` and overriding the
+`ToString` method.
 
 [0]: https://www.jetbrains.com/rider/
