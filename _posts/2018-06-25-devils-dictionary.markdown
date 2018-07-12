@@ -50,9 +50,6 @@ quickly overwhelm the sensory faculties of any critics.  See [*Predator Confusio
 
 GitHub - Synonymous with Git, for most developers.
 
-Google - A marketing platform which uses occasional homages to historical Marxists to camoflauge its present capitalist
-ambitions.
-
 ## H ##
 
 Hour of Code - An effort to encourage small children to write software, using the [web page equivalent of a pop up book][1].
@@ -79,7 +76,7 @@ specially trained in a language designed to defer development costs from today t
 
 Serverless - The discarding of a generation's worth of technology intended to standardize web applications in favor of
 locking yourself into a vendor with an unproven, proprietary service from Amazon (Lambda), Microsoft (Azure Functions)
-or Google (Serverless)
+or Google (Serverless).
 
 [0]: https://link.springer.com/article/10.1007%2FBF00177338
 [1]: https://studio.code.org/s/frozen/stage/1/puzzle/1
