@@ -25,6 +25,9 @@ called a salesman and yet is not shrewd enough to get paid like one.
 
 Cloud, as in computing - Another name for someone else's computer.
 
+Bitcoin - a digital currency, presumed to be immune to inflation, based on the strength of its underlying mathematical 
+theorems
+
 ## D ##
 
 Data Lake - the cloud's version of My Documents.
@@ -50,9 +53,17 @@ quickly overwhelm the sensory faculties of any critics.  See [*Predator Confusio
 
 GitHub - Synonymous with Git, for most developers.
 
+Go - A programming language, released by Google, that has gained most of its popularity by making developers feel like 
+they are working for Google.
+
 ## H ##
 
 Hour of Code - An effort to encourage small children to write software, using the [web page equivalent of a pop up book][1].
+
+## I ##
+
+Initial Coin Offering - a highly lucrative and repeatable exercise, during which a startup company directly inflates 
+the money supply of all cryptocurrencies.
 
 ## J ##
 
