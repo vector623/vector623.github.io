@@ -18,6 +18,8 @@ professional context.
 
 Big data - When Excel crashes.
 
+Bitcoin - A digital currency designed to enable ransomware payments.
+
 Bizdev - Job title for a position in web application sales.  Generally preferred by someone who is too proud to be
 called a salesman and yet is not shrewd enough to get paid like one.
 
@@ -25,12 +27,9 @@ called a salesman and yet is not shrewd enough to get paid like one.
 
 Cloud, as in computing - Another name for someone else's computer.
 
-Bitcoin - a digital currency, presumed to be immune to inflation, based on the strength of its underlying mathematical 
-theorems
-
 ## D ##
 
-Data Lake - the cloud's version of My Documents.
+Data Lake - The cloud's version of My Documents.
 
 Data science - Statistics and linear algebra concealed behind a veil of marketing and ignorance.
 
@@ -48,7 +47,7 @@ from the former to the latter.
 
 ## G ##
 
-Git - A tool that enables a developer to obscure software defects by publishing them in such large volumes as to
+Git - A tool that allows a developer to obscure software defects by publishing them in such large volumes as to
 quickly overwhelm the sensory faculties of any critics.  See [*Predator Confusion Effect*.][0]
 
 GitHub - Synonymous with Git, for most developers.
@@ -63,7 +62,8 @@ Hour of Code - An effort to encourage small children to write software, using th
 ## I ##
 
 Initial Coin Offering - a highly lucrative and repeatable exercise, during which a startup company directly inflates 
-the money supply of all cryptocurrencies.
+the money supply of all cryptocurrencies. The profits gained are directly correlated to the consequent devaluation of
+all other existing cryptocurriencies.
 
 ## J ##
 
@@ -72,7 +72,7 @@ Javascript - see *technical debt*
 ## M ##
 
 Machine Learning - The brute forcing of relatively data simple insights using graphics cards; an industry-wide attempt 
-to compensate for a loss of mathematic understanding with PC gaming hardware.
+to compensate for a generational loss of mathematic understanding with PC gaming hardware.
 
 Meddling (as in *Meddling in US Elections*) - A rallying cry uniting the public against Big Tech.
 
