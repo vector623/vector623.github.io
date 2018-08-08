@@ -46,6 +46,10 @@ six-figure devops salaries by publishing a Dockerfile to Github.
 Early Access - A version of Kickstarter for Steam, designed to redirect profits for non-refundable video game preorders
 from the former to the latter.
 
+## F ##
+
+Facebook - A clearing house, where people go to exchange privacy for attention.
+
 ## G ##
 
 Git - A tool that allows a developer to obscure software defects by publishing them in such large volumes as to
@@ -62,18 +66,20 @@ Hour of Code - An effort to encourage small children to write software, using th
 
 ## I ##
 
-Initial Coin Offering - a highly lucrative and repeatable exercise, during which a startup company directly inflates 
+Initial Coin Offering - A highly lucrative and repeatable exercise, during which a startup company directly inflates 
 the money supply of all cryptocurrencies. The profits gained are directly correlated to the consequent devaluation of
 all other existing cryptocurriencies.
 
 ## J ##
 
-Javascript - see *technical debt*
+Javascript - See *technical debt*
 
 ## M ##
 
 Machine Learning - The brute forcing of relatively data simple insights using graphics cards; an industry-wide attempt 
-to compensate for a generational loss of mathematic understanding with PC gaming hardware.
+to compensate for a loss of mathematic understanding with PC gaming hardware.
+
+Malware - Any abusive software that was not released by a Fortune 500 company.
 
 Meddling (as in *Meddling in US Elections*) - A rallying cry uniting the public against Big Tech.
 
