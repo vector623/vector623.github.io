@@ -18,7 +18,8 @@ professional context.
 
 Big data - When Excel crashes.
 
-Bitcoin - A digital currency designed to enable ransomware payments.
+Bitcoin - A digital currency, hailed as the deathknell to fiat currency, primarily used to facilitate ransomware 
+payments.
 
 Bizdev - Job title for a position in web application sales.  Generally preferred by someone who is too proud to be
 called a salesman and yet is not shrewd enough to get paid like one.
