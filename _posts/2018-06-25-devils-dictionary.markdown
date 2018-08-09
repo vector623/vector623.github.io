@@ -70,6 +70,10 @@ Initial Coin Offering - A highly lucrative and repeatable exercise, during which
 the money supply of all cryptocurrencies. The profits gained are directly correlated to the consequent devaluation of
 all other existing cryptocurriencies.
 
+Internet of Things - A consumer trend that is the tech equivalent of a homeowner removing furniture and appliances 
+from his home, placing them alongside the sidewalk, assigning street addresses to each, submitting the addresses 
+to a public directory, then expressing genuine surprise to find that his property has been vandalized and/or stolen.
+
 ## J ##
 
 Javascript - See *technical debt*
