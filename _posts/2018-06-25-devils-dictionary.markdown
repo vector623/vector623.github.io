@@ -71,7 +71,7 @@ the money supply of all cryptocurrencies. The profits gained are directly correl
 all other existing cryptocurriencies.
 
 Internet of Things - A consumer trend that is the tech equivalent of a homeowner removing furniture and appliances 
-from his home, placing them alongside the sidewalk, assigning street addresses to each, submitting the addresses 
+from his home, placing them along the sidewalk, assigning street addresses to each, submitting the addresses 
 to a public directory, then expressing genuine surprise to find that his property has been vandalized and/or stolen.
 
 ## J ##
