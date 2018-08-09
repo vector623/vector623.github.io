@@ -36,7 +36,7 @@ Data science - Statistics and linear algebra concealed behind a veil of marketin
 
 Devops - A portmanteau of Development and Operations.  In other words, the combined practice of writing software and
 publishing it. Devops has recently gained momentum, in large part because it enables developers to evade accountability
-by removing all non-developers from the software publishing process.
+through the elimination of all non-developers from the software publishing process.
 
 Docker - An abstraction for Linux system administration and networking.  Allows entry-level developers to apply for
 six-figure devops salaries by publishing a Dockerfile to Github.
