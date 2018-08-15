@@ -6,7 +6,7 @@ categories: humor
 ---
 
 ## A ## 
-Agile - A popular software development methodology that solves the problem of misaligned expectations between the
+Agile - A popular software development methodology that tries to solves the problem of misaligned expectations between the
 developer and the customer by pretending they don't exist.
 
 Amazon Web Services - A cloud computing service, which labels relatively simple products with complicated-sounding
@@ -80,7 +80,7 @@ Javascript - See *technical debt*
 
 ## M ##
 
-Machine Learning - The brute forcing of relatively data simple insights using graphics cards; an industry-wide attempt 
+Machine Learning - The brute forcing of relatively simple data insights using graphics cards; an industry-wide attempt 
 to compensate for a loss of mathematic understanding with PC gaming hardware.
 
 Malware - Any abusive software that was not released by a Fortune 500 company.
