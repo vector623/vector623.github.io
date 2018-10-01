@@ -76,7 +76,8 @@ to a public directory, then expressing genuine surprise to find that his propert
 
 ## J ##
 
-Javascript - See *technical debt*
+Javascript - If programming languages were credit cards, Javascript would have the simplest application, the easiest
+approval and carry the highest rate of compounding interest. See *technical debt*;
 
 ## M ##
 
@@ -86,6 +87,10 @@ to compensate for a loss of mathematic understanding with PC gaming hardware.
 Malware - Any abusive software that was not released by a Fortune 500 company.
 
 Meddling (as in *Meddling in US Elections*) - A rallying cry uniting the public against Big Tech.
+
+Microdosing - The habitual consumption of powerful and illicit narcotics, in quantities small enough as is required 
+to persuade the user in his mind, now under the influence of narcotics, that he is not addicted and will not become 
+addicted to the drugs he is habitually consuming.
 
 ## N ##
 
