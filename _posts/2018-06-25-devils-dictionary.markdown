@@ -35,9 +35,10 @@ Data Lake - The cloud's version of My Documents.
 
 Data science - Statistics and linear algebra concealed behind a veil of marketing and ignorance.
 
-Devops - A portmanteau of Development and Operations.  In other words, the combined practice of writing software and
-publishing it. Devops has recently gained momentum, in large part because it enables developers to evade accountability
-through the elimination of all non-developers from the software publishing process.
+Devops - A portmanteau of Development and Operations. In other words, the combined practice of
+writing software and publishing it. Devops has recently gained momentum, in large part because it
+enables developers to evade accountability through the elimination of all non-developers from the
+software publishing process.
 
 Docker - An abstraction for Linux system administration and networking.  Allows entry-level developers to apply for
 six-figure devops salaries by publishing a Dockerfile to Github.
@@ -82,12 +83,11 @@ to a public directory, then expressing genuine surprise to find that his propert
 Javascript - If programming languages were credit cards, Javascript would have the simplest application, the easiest
 approval and carry the highest rate of compounding interest. See *technical debt*;
 
-Jenkins - A web application which basically wraps the linux shell in a
-GUI. It is the WordPress of DevOps. Like WordPress, Jenkins advertises a
-wide extensive functionality through a large plugins library. Also like
-WordPress, Jenkins will break upon the next update if you actually start
-using any its plugins. Jenkins will most likely be replaced by the
-DevOps equivalent of Jekyll within the next few years.
+Jenkins - A web application which basically wraps the linux shell in a web GUI. It's the WordPress
+of DevOps. Like WordPress, Jenkins advertises a wide extensive functionality through a large plugins
+library. Also like WordPress, Jenkins will break at the next update if you actually start using any
+of those plugins. Once the dev industry gets fed up, Jenkins will most likely be replaced by the
+DevOps equivalent of Jekyll.
 
 ## M ##
 
