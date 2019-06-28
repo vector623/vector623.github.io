@@ -118,3 +118,7 @@ or Google (Serverless).
 
 [0]: https://link.springer.com/article/10.1007%2FBF00177338
 [1]: https://studio.code.org/s/frozen/stage/1/puzzle/1
+
+## W
+
+Windows - An operating system which dedicates the majority of system resources to running anti-virus software.
