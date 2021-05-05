@@ -116,9 +116,16 @@ Serverless - The discarding of a generation's worth of technology intended to st
 locking yourself into a vendor with an unproven, proprietary service from Amazon (Lambda), Microsoft (Azure Functions)
 or Google (Serverless).
 
-[0]: https://link.springer.com/article/10.1007%2FBF00177338
-[1]: https://studio.code.org/s/frozen/stage/1/puzzle/1
+## T
 
-## W
+Technical debt - future work developers create for themselves. A byproduct of bad work. Often advocated for by
+non-developers who will not be responsible for future work. Generally undesirable in the computing industry, with
+the exception of offshore contractors, for whom technical debt is job security and who are incentivized to generate
+as much technical debt as possible.
+
+## W ##
 
 Windows - An operating system which dedicates the majority of system resources to running anti-virus software.
+
+[0]: https://link.springer.com/article/10.1007%2FBF00177338
+[1]: https://studio.code.org/s/frozen/stage/1/puzzle/1
